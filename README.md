@@ -1,1 +1,6 @@
 # Td3-linux
+FRA - ITA 37 - 10
+IRL - WAL 29 - 7
+ECO - ANG 20 - 17
+WAL - ECO 20 - 17
+FRA - IRL 30 - 24
